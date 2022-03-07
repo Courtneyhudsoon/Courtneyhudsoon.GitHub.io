@@ -12,4 +12,4 @@ In my personal life I love to walk my dogs and spend time with friends. As well,
 
 ### Contact me
 
-[armcdona@calpoly.edu](mailto:armcdona@calpoly.edu)
+[chudso08@calpoly.edu](mailto:chudso08@calpoly.edu)
