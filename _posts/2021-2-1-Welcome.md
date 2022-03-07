@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Welcome!
+title: Welcome Y'all!
 ---
-You can change the title above if you want to and then write your content.  
+Hey everyone, my name is Courtney Hudson and I am a biochemnist here at Calpoly San luis Obispo. I am intrested in sustainable polymers and hope to do research within that subject.  
